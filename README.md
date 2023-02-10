@@ -1,9 +1,9 @@
-
   ### Arnaldo Jr Octaviano 🖖
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnaldo-octaviano-799870262/)
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arnaldojroctaviano/)
 
-![19891005 GitHub stats](https://github-readme-stats.vercel.app/api?username=19891005&show_icons=true&theme=dracula)
+!![Arna1d0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Arna1d0&show_icons=true&theme=radical)
+
 
 ### Tecnologias que uso no meu dia:
 
