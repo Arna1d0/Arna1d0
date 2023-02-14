@@ -6,9 +6,9 @@
 [![Instragram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arnaldojroctaviano/)
 
 
-!![Arna1d0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Arna1d0&show_icons=true&theme=radical)
+![Arn1ld0 GitHub stats](https://github-readme-stats.vercel.app/api?username=Arna1d0&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arna1d0&layout=compact)](https://github.com/Arna1d0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arna1d0&hide=javascript,html)](https://github.com/Arna1d0/github-readme-stats)
 
 
 ### Tecnologias que uso no meu dia:
@@ -19,4 +19,4 @@
 <img align="center" alt="Python" src=https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white />
 </div><br/>
 
-#### Apaxaidonado por tecnologia e em constante aprendizado!
+#### Apaxaidonado por tecnologia e em constante aprendizado
